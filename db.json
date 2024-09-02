@@ -1,0 +1,19 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "modelo": "Modelo A",
+        "marca": "Marca A",
+        "imagem": "link_para_imagem",
+        "valor": 10000
+      },
+      {
+        "id": 2,
+        "modelo": "Modelo B",
+        "marca": "Marca B",
+        "imagem": "link_para_imagem",
+        "valor": 15000
+      }
+    ]
+  }
+  
